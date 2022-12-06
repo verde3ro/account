@@ -18,7 +18,7 @@ import java.io.Serializable;
 @Setter
 @ToString
 @Entity
-@Table(name = "account")
+@Table(name = "accounts")
 @AllArgsConstructor
 @NoArgsConstructor
 public class Account implements Serializable {
